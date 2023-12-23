@@ -1,0 +1,34 @@
+apt-get install git
+
+git init
+
+git add .  //para subir todo lo de una carpeta
+
+crear una carpeta en git 
+
+top repositorios en la pagina principal 
+	new
+
+	crear repositorio
+
+git init
+
+gitg status
+
+git add .  //para subir todo lo de una carpeta
+
+
+git config --global user.email d13604f6@gmail.com
+
+git config --global user.name d1360
+
+git commit -m "Se agrega el proyecto"
+
+git branch -M main  //subirlo a la rama principal
+
+git remote add origin git@github.com:d13604f6/git_con_github.git  //url, copia de el github
+
+*****https://platzi.com/tutoriales/1557-git-github/4067-configurar-llaves-ssh-en-git-y-github/****
+
+
+
